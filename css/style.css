@@ -6,7 +6,8 @@
 
 @font-face {
   font-family: a;
-  src: url('../fonts/LinkStart\ Italic.otf'); /* Updated path */
+  src: url('../fonts/LinkStart\ Italic.otf'); /* Updated path */ 
+  font-style: italic;
 }
 
 @font-face {
